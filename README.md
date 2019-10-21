@@ -272,3 +272,5 @@ Benim gözümden kaçan ve aramalarımda karşıma çıkmayan kaynakları ekleme
  - [Sıfırdan Her Yönüyle JavaScript & Node.JS](https://www.udemy.com/nodejs-egitimi/) - Mehmet Seven :video_camera:
  - [JavaScript ile Temel Programlama ve İleri Seviye JavaScript](https://www.udemy.com/javascript-ile-temel-programlama-ve-ileri-seviye-javascript/) - Doğukan Güven Nomak, Fatih Kadir Akın :video_camera:
  - [Komple JavaScript ES6+ (2019): Node.js,Express,Angular,Mongo](https://www.udemy.com/course/full-stack-web-developer-kursu/) - Engin Demiroğ :video_camera:
+ - [A'dan Z'ye JAVASCRIPT Eğitim Seti (2019)](https://www.udemy.com/course/adan-zye-javascript-egitim-seti/) - Volkan Alakent :video_camera:
+ - [Komple Sıfırdan Adım Adım Javascript Öğrenin (2018)](https://www.udemy.com/course/komple-sifirdan-adim-adim-javascript-ogrenin/) - Emrah Yüksel :video_camera:
